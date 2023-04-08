@@ -21,8 +21,8 @@ public class Client {
             System.out.println(response);
 
             Scanner sc = new Scanner(System.in);
-            String name = sc.nextLine();
-            out.println(name);
+            String city = sc.nextLine();
+            out.println(city);
 
             response = in.readLine();
             System.out.println(response);
